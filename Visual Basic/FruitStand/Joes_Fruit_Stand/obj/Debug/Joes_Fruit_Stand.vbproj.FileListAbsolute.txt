@@ -1,0 +1,24 @@
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\bin\Debug\Joes_Fruit_Stand.exe.config
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\bin\Debug\Joes_Fruit_Stand.exe
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\bin\Debug\Joes_Fruit_Stand.pdb
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\bin\Debug\Joes_Fruit_Stand.xml
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.vbprojAssemblyReference.cache
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.OrderForm.resources
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.Resources.resources
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.vbproj.GenerateResource.cache
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.vbproj.CoreCompileInputs.cache
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.exe
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.xml
+D:\_Spring2021\VB\Assignments\Chapter4\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.pdb
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\bin\Debug\Joes_Fruit_Stand.exe.config
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\bin\Debug\Joes_Fruit_Stand.exe
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\bin\Debug\Joes_Fruit_Stand.pdb
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\bin\Debug\Joes_Fruit_Stand.xml
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.vbproj.AssemblyReference.cache
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.OrderForm.resources
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.Resources.resources
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.vbproj.GenerateResource.cache
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.vbproj.CoreCompileInputs.cache
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.exe
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.xml
+D:\School\Visual Basic\Homework\Working Files\Joes_Fruit_Stand\Joes_Fruit_Stand\obj\Debug\Joes_Fruit_Stand.pdb

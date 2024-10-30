@@ -1,0 +1,12 @@
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\obj\x86\Debug\Ch4WaterBill.vbproj.AssemblyReference.cache
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\obj\x86\Debug\Ch4WaterBill.Form1.resources
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\obj\x86\Debug\Ch4WaterBill.Resources.resources
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\obj\x86\Debug\Ch4WaterBill.vbproj.GenerateResource.cache
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\obj\x86\Debug\Ch4WaterBill.vbproj.CoreCompileInputs.cache
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\bin\Debug\Ch4WaterBill.exe.config
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\bin\Debug\Ch4WaterBill.exe
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\bin\Debug\Ch4WaterBill.pdb
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\bin\Debug\Ch4WaterBill.xml
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\obj\x86\Debug\Ch4WaterBill.exe
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\obj\x86\Debug\Ch4WaterBill.xml
+D:\School\Visual Basic\Homework\Working Files\Ch4WaterBill\Ch4WaterBill\obj\x86\Debug\Ch4WaterBill.pdb
