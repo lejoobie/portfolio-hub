@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+h4 {
+	color: white;
+	font-family: Lemon Milk;
+}
+h5 {
+	color: red;
+	font-family: source pro;
+	text-align: right;
+	font-size: 12pt;
+	
+}
+h6 {
+	color: white;
+	font-family: ariel;
+	text-align: center;
+	font-size: 16pt;
+	
+}
+p {
+  color: white;
+	font-family: ariel;
+}

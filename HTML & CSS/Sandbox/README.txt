@@ -1,0 +1,1 @@
+This entire folder intentionally has no structure, rhyme or reason. This is simply just a dump for HTML and CSS files that were used a while ago. This project named 'Sandbox' will have no improvement or changes made to it - as it quite literally has no purpose. Better HTML projects will be uploaded later.
